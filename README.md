@@ -1,4 +1,4 @@
-# AWS-practice!!
+# AWS-practice
 
 # 1. AWS-IAM
 - what is IAM?
